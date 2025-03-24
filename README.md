@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**Jorgalem/Jorgalem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://freedesignfile.com/upload/2017/08/moon-icon-vector.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://th.bing.com/th/id/OIP.L3oZ4Aehg_FEPOo3XGd9fAHaHM?rs=1&pid=ImgDetMain">
+ <img alt="Sreen Reader" src="https://static.vecteezy.com/system/resources/previews/001/192/736/non_2x/moon-icon-png.png">
+</picture>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I'm learning from zero! I have never tried programming language and I'm not sure that this can be consider as a programming language :frowning_face:
+
+<details>
+<summary>My top Hobbies</summary>
+
+|Rank|Hobbies|
+|-----:|------------|
+|     1| God               |
+|     2| Family               |
+|     3| Learning               |
+
+</details>
+
+---
+> It's never late to learn **or** understand whatever you want to!
+
+-JLA
