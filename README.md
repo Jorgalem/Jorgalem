@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://freedesignfile.com/upload/2017/08/moon-icon-vector.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://freedesignfile.com/upload/2017/08/moon-icon-vector.png" width="48">
  <source media="(prefers-color-scheme: light)" srcset="https://th.bing.com/th/id/OIP.L3oZ4Aehg_FEPOo3XGd9fAHaHM?rs=1&pid=ImgDetMain">
  <img alt="Sreen Reader" src="https://static.vecteezy.com/system/resources/previews/001/192/736/non_2x/moon-icon-png.png">
 </picture>
