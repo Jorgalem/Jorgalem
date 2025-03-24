@@ -10,7 +10,7 @@
 ## About Me
 I'm learning from zero! I have never tried programming language and I'm not sure that this can be consider as a programming language :frowning_face:
 
-<details>
+<details open>
 <summary>My top Hobbies</summary>
 
 |Rank|Hobbies|
