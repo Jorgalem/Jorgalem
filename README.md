@@ -8,7 +8,7 @@
 
 
 ## About Me
-I'm learning from zero! I have never tried programming language and I'm not sure that this can be consider as a programming language :frowning_face:
+I'm learning from zero! I have never tried programming language and I'm not sure that this can be consider as a programming language :frowning_face: :facepalm:
 
 <details>
 <summary>My top Hobbies</summary>
